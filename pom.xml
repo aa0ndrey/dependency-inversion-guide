@@ -30,6 +30,10 @@
         <module>step-4</module>
         <module>step-5</module>
         <module>step-6</module>
+        <module>step-7</module>
+        <module>step-8</module>
+        <module>step-9</module>
+        <module>step-14</module>
     </modules>
 
     <dependencyManagement>
